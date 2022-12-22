@@ -1,4 +1,4 @@
-package model;
+package courses.model;
 
 import java.time.temporal.ChronoUnit;
 import java.util.EnumMap;

@@ -1,11 +1,11 @@
-package demo;
+package courses.demo;
 
 
 
-import model.Day;
-import model.CreatingStatisticalReport;
-import model.TimelineReport;
-import pars.Parser;
+import courses.model.Day;
+import courses.model.CreatingStatisticalReport;
+import courses.model.TimelineReport;
+import courses.pars.Parser;
 
 import java.io.*;
 import java.nio.file.Files;

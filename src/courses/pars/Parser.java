@@ -1,8 +1,8 @@
-package pars;
+package courses.pars;
 
 
-import model.Day;
-import model.LinesLogFile;
+import courses.model.Day;
+import courses.model.LinesLogFile;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
